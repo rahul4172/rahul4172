@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rahul4172&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4172&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=rahul4172&theme=onedark&row=1&margin-w=10)
+## 🏆 GitHub Achievements
+[![Quickdraw](https://img.shields.io/badge/GitHub%20Achievement-Quickdraw-2EA44F?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![Pull Shark](https://img.shields.io/badge/GitHub%20Achievement-Pull%20Shark-0969DA?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![YOLO](https://img.shields.io/badge/GitHub%20Achievement-YOLO-F85149?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![Pair Extraordinaire](https://img.shields.io/badge/GitHub%20Achievement-Pair%20Extraordinaire-825)]()
 
 
 ### ✍️ Random Dev Quote
