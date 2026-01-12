@@ -41,7 +41,7 @@ I focus on **simplicity under pressure** — designing systems that work even wh
 [![Quickdraw](https://img.shields.io/badge/GitHub%20Achievement-Quickdraw-2EA44F?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![Pull Shark](https://img.shields.io/badge/GitHub%20Achievement-Pull%20Shark-0969DA?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![YOLO](https://img.shields.io/badge/GitHub%20Achievement-YOLO-F85149?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) ![Pair Extraordinaire](https://img.shields.io/badge/GitHub%20Achievement-Pair%20Extraordinaire-825)
 
 
-## ✍️ Random Dev Quote
+## ✍️ Day's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
@@ -51,4 +51,3 @@ I focus on **simplicity under pressure** — designing systems that work even wh
 
 [![](https://visitcount.itsvg.in/api?id=rahul4172&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
