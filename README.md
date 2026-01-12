@@ -38,13 +38,13 @@ I focus on **simplicity under pressure** — designing systems that work even wh
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4172&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Achievements
-[![Quickdraw](https://img.shields.io/badge/GitHub%20Achievement-Quickdraw-2EA44F?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![Pull Shark](https://img.shields.io/badge/GitHub%20Achievement-Pull%20Shark-0969DA?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![YOLO](https://img.shields.io/badge/GitHub%20Achievement-YOLO-F85149?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![Pair Extraordinaire](https://img.shields.io/badge/GitHub%20Achievement-Pair%20Extraordinaire-825)]()
+[![Quickdraw](https://img.shields.io/badge/GitHub%20Achievement-Quickdraw-2EA44F?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![Pull Shark](https://img.shields.io/badge/GitHub%20Achievement-Pull%20Shark-0969DA?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![YOLO](https://img.shields.io/badge/GitHub%20Achievement-YOLO-F85149?logo=github&logoColor=white)](https://github.com/rahul4172?tab=achievements) [![Pair Extraordinaire](https://img.shields.io/badge/GitHub%20Achievement-Pair%20Extraordinaire-825)]
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahul4172&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
