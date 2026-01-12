@@ -3,7 +3,7 @@
 
 Designing real-world systems that combine **hardware + software**, focused on **simplicity under pressure**.
 
----
+
 
 ## 🧠 About Me
 
