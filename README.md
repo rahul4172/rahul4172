@@ -1,5 +1,30 @@
-# 💫 About Me:
-👋 Hi, I’m Rahul<br><br>🔭 I’m currently working on<br>Real-world tech projects involving web development, IoT systems (ESP32-based safety and SOS solutions), and user-centric platforms designed for practical impact.<br><br>👯 I’m looking to collaborate on<br>Hackathon projects, web applications, IoT-based solutions, and early-stage product ideas that solve genuine everyday problems.<br><br>🤝 I’m looking for help with<br>System architecture, backend integration, cloud deployment, and scaling ideas into production-ready products.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, React.js, and progressively moving toward the MERN stack (MongoDB, Express.js, React, Node.js), with a focus on backend fundamentals, databases, and scalable full-stack application development.<br><br>💬 Ask me about<br>HTML, CSS, responsive design, hackathon pitching, ESP32 projects, and building practical tech products from scratch.<br><br>⚡ Fun fact<br>I focus on simplicity under pressure—designing systems that work even when users can’t think clearly.
+## 👋 Hi, I’m Rahul
+### 🚀 Builder | Web • IoT • Hackathons
+
+Designing real-world systems that combine **hardware + software**, focused on **simplicity under pressure**.
+
+---
+
+## 🧠 About Me
+
+🔭 **Currently working on**  
+Real-world tech projects involving **web development** and **IoT systems**, especially **ESP32-based safety & SOS solutions** and user-centric platforms built for practical impact.
+
+👯 **Looking to collaborate on**  
+Hackathon projects, web applications, IoT-based solutions, and early-stage product ideas that solve **genuine everyday problems**.
+
+🤝 **Looking for help with**  
+System architecture, backend integration, cloud deployment, and scaling ideas into **production-ready products**.
+
+🌱 **Currently learning**  
+Advanced JavaScript, React.js, and progressing toward the **MERN stack**, with a focus on backend fundamentals, databases, and scalable full-stack development.
+
+💬 **Ask me about**  
+HTML, CSS, responsive design, hackathon pitching, ESP32 projects, and building practical tech products from scratch.
+
+⚡ **Fun fact**  
+I focus on **simplicity under pressure** — designing systems that work even when users can’t think clearly.
+
 
 
 ## 🌐 Socials:
