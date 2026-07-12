@@ -1,0 +1,86 @@
+<svg width="100%" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="55%" stop-color="#0D1420"/>
+      <stop offset="100%" stop-color="#0B0F17"/>
+    </linearGradient>
+    <linearGradient id="traceFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#64FFDA" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#64FFDA" stop-opacity="0.55"/>
+      <stop offset="80%" stop-color="#64FFDA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#64FFDA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- fine background grid, PCB substrate feel -->
+  <g stroke="#1B2434" stroke-width="1">
+    <path d="M0,40 H1200 M0,80 H1200 M0,240 H1200 M0,280 H1200"/>
+    <path d="M120,0 V320 M360,0 V320 M840,0 V320 M1080,0 V320"/>
+  </g>
+
+  <!-- left circuit trace cluster -->
+  <g fill="none" stroke="#64FFDA" stroke-width="1.6" opacity="0.65">
+    <path d="M0,120 L70,120 L70,60 L160,60 L160,90"/>
+    <path d="M0,180 L40,180 L40,220 L150,220 L150,190"/>
+    <path d="M0,255 L100,255 L100,235 L175,235"/>
+    <path d="M20,20 L20,45 L95,45 L95,75"/>
+  </g>
+  <g fill="#64FFDA">
+    <circle cx="70" cy="60" r="3.5" filter="url(#softGlow)"/>
+    <circle cx="160" cy="90" r="2.5"/>
+    <circle cx="150" cy="220" r="3.5" filter="url(#softGlow)"/>
+    <circle cx="175" cy="235" r="2.5"/>
+    <circle cx="95" cy="75" r="2.5"/>
+  </g>
+  <!-- resistor-style component -->
+  <rect x="60" y="55" width="20" height="10" rx="1.5" fill="none" stroke="#64FFDA" stroke-width="1.4" opacity="0.8"/>
+
+  <!-- right circuit trace cluster (mirrored feel) -->
+  <g fill="none" stroke="#64FFDA" stroke-width="1.6" opacity="0.65">
+    <path d="M1200,110 L1120,110 L1120,50 L1030,50 L1030,80"/>
+    <path d="M1200,190 L1155,190 L1155,225 L1045,225 L1045,195"/>
+    <path d="M1200,260 L1095,260 L1095,240 L1025,240"/>
+    <path d="M1175,25 L1175,50 L1105,50 L1105,78"/>
+  </g>
+  <g fill="#64FFDA">
+    <circle cx="1120" cy="50" r="3.5" filter="url(#softGlow)"/>
+    <circle cx="1030" cy="80" r="2.5"/>
+    <circle cx="1045" cy="225" r="3.5" filter="url(#softGlow)"/>
+    <circle cx="1025" cy="240" r="2.5"/>
+    <circle cx="1105" cy="78" r="2.5"/>
+  </g>
+  <rect x="1108" y="45" width="20" height="10" rx="1.5" fill="none" stroke="#64FFDA" stroke-width="1.4" opacity="0.8"/>
+
+  <!-- connecting horizontal energy line through center -->
+  <rect x="0" y="159" width="1200" height="2" fill="url(#traceFade)"/>
+
+  <!-- core name -->
+  <text x="600" y="158" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',monospace" font-size="54" font-weight="700" fill="#E6F1FF" letter-spacing="6" filter="url(#textGlow)">RAHUL AGARWAL</text>
+
+  <!-- subtitle -->
+  <text x="600" y="196" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',monospace" font-size="15" fill="#64FFDA" letter-spacing="4">SYSTEMS-MINDED DEVELOPER</text>
+
+  <!-- descriptor line -->
+  <text x="600" y="224" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#8B98A9" letter-spacing="1.5">WEB &#8226; AI / ML &#8226; EMBEDDED IOT &#8226; PRD TO PRODUCTION</text>
+
+  <!-- bottom-left tag -->
+  <text x="40" y="300" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12" fill="#4A5568" letter-spacing="1">UEM KOLKATA</text>
+  <text x="1040" y="300" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12" fill="#4A5568" letter-spacing="1">B.TECH CSE (IOT)</text>
+</svg>
