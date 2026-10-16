@@ -131,9 +131,6 @@ recognized:    Special Mention, Codexify
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4172&layout=compact&hide_border=true&bg_color=0B0F17&title_color=64FFDA&text_color=C9D1D9" />
 
 <img src="https://streak-stats.demolab.com/?user=rahul4172&hide_border=true&background=0B0F17&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul4172&bg_color=0B0F17&color=64FFDA&line=64FFDA&point=C9D1D9&hide_border=true&area=true" />
-
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/rahul4172/rahul4172/output/github-contribution-grid-snake-dark.svg" width="100%" />
