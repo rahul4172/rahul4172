@@ -1,158 +1,166 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" />
+<img src="./Assets/hero.svg" width="100%" alt="" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Shipping+SmartVital+%E2%80%94+explainable+clinical+AI;Building+HackMatch+%E2%80%94+matched+by+algorithm%2C+encrypted+end-to-end;Wiring+ESP32s+into+things+that+save+time;Now%3A+SakhiCredit+%E2%80%94+credit+scoring+for+India's+informal+economy&font=JetBrains+Mono&size=17&duration=2900&pause=1000&color=64FFDA&center=true&vCenter=true&width=760&height=40&separator=%3B" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+at+PlayProject;Ex+Blockchain+Developer+at+White;Doing+%23100DaysOfCode+on+C;Building+with+Rust%2C+TypeScript+%26+Elixir&font=JetBrains+Mono&size=17&duration=2900&pause=1000&color=64FFDA&center=true&vCenter=true&width=760&height=40&separator=%3B" alt="Typing animation" />
 
 <br/>
 
-<a href="https://rahul-agarwal-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F17?style=for-the-badge&logo=vercel&logoColor=64FFDA&labelColor=0B0F17" /></a>
-<a href="https://linkedin.com/in/igrahul"><img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=64FFDA&labelColor=0B0F17" /></a>
-<a href="mailto:rahulagarwal40046@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F17?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=0B0F17" /></a>
-<a href="https://github.com/rahul4172"><img src="https://img.shields.io/badge/GITHUB-0B0F17?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0B0F17" /></a>
+<a href="http://ddroid.dev/"><img src="https://img.shields.io/badge/WEBSITE-0B0F17?style=for-the-badge&logoColor=64FFDA&labelColor=0B0F17" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/ddroid/"><img src="https://img.shields.io/badge/LINKEDIN-0B0F17?style=for-the-badge&logo=linkedin&logoColor=64FFDA&labelColor=0B0F17" alt="LinkedIn" /></a>
+<a href="https://x.com/ddroid_dev"><img src="https://img.shields.io/badge/TWITTER-0B0F17?style=for-the-badge&logo=x&logoColor=64FFDA&labelColor=0B0F17" alt="Twitter" /></a>
+<a href="https://www.reddit.com/user/Ahmad-Munir"><img src="https://img.shields.io/badge/REDDIT-0B0F17?style=for-the-badge&logo=reddit&logoColor=64FFDA&labelColor=0B0F17" alt="Reddit" /></a>
+<a href="https://discord.com/users/1085441777886040064"><img src="https://img.shields.io/badge/DISCORD-0B0F17?style=for-the-badge&logo=discord&logoColor=64FFDA&labelColor=0B0F17" alt="Discord" /></a>
+<a rel="me" href="https://fosstodon.org/@ddroid"><img src="https://img.shields.io/badge/MASTODON-0B0F17?style=for-the-badge&logo=mastodon&logoColor=64FFDA&labelColor=0B0F17" alt="Mastodon" /></a>
+<a href="https://bsky.app/profile/devdroid.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-0B0F17?style=for-the-badge&logo=bluesky&logoColor=64FFDA&labelColor=0B0F17" alt="Bluesky" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/ddroid?style=social" alt="GitHub followers" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./Assets/divider.svg" width="100%" alt="" />
+
+<h2>Hi there, I'm Ahmad <img src="./Assets/7.gif" width="50" alt="waving hand"></h2>
+
+<p><em>
+  Software Engineer at <a href="https://playproject.io/">PlayProject</a>
+  <img src="./Assets/9.gif" width="30" alt="">
+  <br>
+  Ex Blockchain Developer at <a href="https://gowhite.xyz/">White</a>
+  <img src="./Assets/11.gif" width="30" alt="">
+  <br>
+  Doing Bachelor of Computer Science at <a href="https://uog.edu.pk/">University of Gujrat</a>
+  <img src="./Assets/8.gif" width="30" alt="">
+</em></p>
+
+<img align="right" src="./Assets/3.gif" width="320" alt="Pixel art of a developer working at a laptop">
+
+### A little more about me...<img src="./Assets/1.gif" width="60" alt="">
+
+```javascript
+const ahmad = {
+  pronouns: ["he", "him"],
+  code: ["TypeScript", "Rust", "C", "Elixir", "JavaScript", "Go"],
+  tools: ["React", "Redux", "Node/Bun", "GTK/Rust", "Docker"],
+  system: ["Linux", "CachyOS", "GNOME", "Wayland", "Vicinae"],
+  challenge: "I am doing the #100DaysOfCode on C"
+}
+```
+
+<br clear="right" />
+
+<img src="./Assets/divider.svg" width="100%" alt="" />
 
 <table align="center">
 <tr>
 <td width="58%" valign="top">
 
 ```yaml
-role:          Full-Stack & AI/ML Developer
-studying:      B.Tech CSE (IoT), UEM Kolkata — 2025 to 2029
-research:      IEDC Laboratory — clinical risk prediction systems
-approach:      ship end-to-end — PRD, model, deployment, no gaps
-organizing:    IGNITIA 2026, flagship tech fest — Aug 1-2
+role:          Software Engineer
+working_at:    PlayProject
+previously:    Blockchain Developer, White
+studying:      B.S. Computer Science, University of Gujrat
 ```
 
 </td>
 <td width="42%" valign="top">
 
 ```yaml
-gpa:           8.07 / 10.00
-domains:       web · embedded · applied ML
-awarded:       Best Working Member, MSS
-recognized:    Special Mention, Codexify
+languages:     TypeScript · Rust · C · Elixir · Go
+system:        CachyOS · GNOME · Wayland
+challenge:     #100DaysOfCode on C
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./Assets/divider.svg" width="100%" alt="" />
+
+<!--
+  FEATURED BUILDS: uncomment and fill in with your own projects.
 
 <h2 align="center">Featured Builds</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>🩺&nbsp; SmartVital</h3>
-<i>AI-powered multi-disease clinical risk prediction platform</i>
+<h3>🛠️&nbsp; Project Name</h3>
+<i>One-line description</i>
 <br/><br/>
 
-![React](https://img.shields.io/badge/-React-0B0F17?style=flat-square&logo=react&logoColor=64FFDA)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0B0F17?style=flat-square&logo=fastapi&logoColor=64FFDA)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0B0F17?style=flat-square&logo=tensorflow&logoColor=64FFDA)
-![ESP32](https://img.shields.io/badge/-ESP32-0B0F17?style=flat-square&logo=espressif&logoColor=64FFDA)
+![Rust](https://img.shields.io/badge/-Rust-0B0F17?style=flat-square&logo=rust&logoColor=64FFDA)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0B0F17?style=flat-square&logo=typescript&logoColor=64FFDA)
 
-- Custom ANN models (Dense–Dropout–Sigmoid) for 4 disease risks; SMOTE + weighted loss for class imbalance
-- SHAP/LIME explainability and a What-If simulator — predictions clinicians can actually interrogate
-- Live ESP32/WebSocket vitals, role-based JWT auth, Groq-hosted Llama 3.1 health assistant
+- Key point one
+- Key point two
 
 </td>
 <td width="50%" valign="top">
-<h3>🤝&nbsp; HackMatch</h3>
-<i>Real-time hackathon teammate-matchmaking platform</i>
+<h3>🛠️&nbsp; Project Name</h3>
+<i>One-line description</i>
 <br/><br/>
 
-![Node.js](https://img.shields.io/badge/-Node.js-0B0F17?style=flat-square&logo=node.js&logoColor=64FFDA)
-![Express](https://img.shields.io/badge/-Express-0B0F17?style=flat-square&logo=express&logoColor=64FFDA)
-![SQLite](https://img.shields.io/badge/-SQLite-0B0F17?style=flat-square&logo=sqlite&logoColor=64FFDA)
-![WebSocket](https://img.shields.io/badge/-WebSocket-0B0F17?style=flat-square&logo=websocket&logoColor=64FFDA)
+![Go](https://img.shields.io/badge/-Go-0B0F17?style=flat-square&logo=go&logoColor=64FFDA)
 
-- Custom Synergy Score algorithm matches teammates by compatibility, not keyword overlap
-- ECDH/AES-GCM end-to-end encrypted chat, built in — not bolted on after
-- Full PRD and deployment kit shipped: Docker, Render, Railway, Fly.io
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🚨&nbsp; TRINETRA</h3>
-<i>AI-powered emergency response system</i>
-<br/><br/>
-
-![ESP32](https://img.shields.io/badge/-ESP32-0B0F17?style=flat-square&logo=espressif&logoColor=64FFDA)
-![Flask](https://img.shields.io/badge/-Flask-0B0F17?style=flat-square&logo=flask&logoColor=64FFDA)
-![CV](https://img.shields.io/badge/-Computer_Vision-0B0F17?style=flat-square&logo=opencv&logoColor=64FFDA)
-
-- ESP32 wearable + Flask AI backend: facial stress detection, live GPS, automated SMS alerts
-- Engineered for the critical 10-minute emergency response window
-- Under ₹500 per unit — built for real-world scale, not a demo
-
-</td>
-<td width="50%" valign="top">
-<h3>🌱&nbsp; AquaSense</h3>
-<i>Smart irrigation & environmental monitoring system</i>
-<br/><br/>
-
-![ESP32](https://img.shields.io/badge/-ESP32-0B0F17?style=flat-square&logo=espressif&logoColor=64FFDA)
-![IoT](https://img.shields.io/badge/-IoT_Sensors-0B0F17?style=flat-square&logo=internetofthings&logoColor=64FFDA)
-![ML](https://img.shields.io/badge/-ML-0B0F17?style=flat-square&logo=scikitlearn&logoColor=64FFDA)
-
-- Multi-sensor ESP32 rig automates irrigation from soil moisture, temperature, humidity
-- ML modules for crop health classification, disease prediction, yield forecasting
+- Key point one
+- Key point two
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./Assets/divider.svg" width="100%" alt="" />
+-->
 
 <div align="center">
 
 <h2>Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=c,java,py,js,html,css,react,vite,nodejs,express,fastapi,mongodb,postgres,sqlite,firebase,tensorflow,sklearn,arduino,git,github,vscode,vercel,render,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,rust,c,elixir,js,go,react,redux,nodejs,bun,docker,linux,git,github&theme=dark" alt="Tech stack icons" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./Assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
 <h2>Metrics</h2>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahul4172&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul4172&layout=compact&hide_border=true&bg_color=0B0F17&title_color=64FFDA&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ddroid&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddroid&layout=compact&hide_border=true&bg_color=0B0F17&title_color=64FFDA&text_color=C9D1D9" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=rahul4172&hide_border=true&background=0B0F17&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/rahul4172/rahul4172/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=ddroid&hide_border=true&background=0B0F17&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./Assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<h2>Recognition</h2>
-
-🏅 &nbsp;**Special Mention**, Codexify — *GoClever*, AI-powered travel intelligence platform
-&nbsp;&nbsp;&#183;&nbsp;&nbsp;
-🏅 &nbsp;**Best Working Member**, Microsoft Student Society
-&nbsp;&nbsp;&#183;&nbsp;&nbsp;
-🚀 &nbsp;Built **RouteIQ** at Techno India Batanagar hackathon
-&nbsp;&nbsp;&#183;&nbsp;&nbsp;
-🚀 &nbsp;Competitor, **Hackolution 2K26**
-
-<br/><br/>
-
-<sub>UEM KOLKATA &nbsp;&#183;&nbsp; B.TECH CSE (IOT) &nbsp;&#183;&nbsp; 2025 — 2029</sub>
+<img src="./Assets/5.gif" width="60" alt=""> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
 </div>
+
+<details>
+<summary>ASCII Art</summary>
+
+```
+      ,---,      ,---,                     ,--,         ,---,
+    ,---.'|    ,---.'|  __  ,-.   ,---.  ,--.'|       ,---.'|
+    |   | :    |   | :,' ,'/ /|  '   ,'\ |  |,        |   | :
+    |   | |    |   | |'  | |' | /   /   |`--'_        |   | |
+  ,--.__| |  ,--.__| ||  |   ,'.   ; ,. :,' ,'|     ,--.__| |
+ /   ,'   | /   ,'   |'  :  /  '   | |: :'  | |    /   ,'   |
+.   '  /  |.   '  /  ||  | '   '   | .; :|  | :   .   '  /  |
+'   ; |:  |'   ; |:  |;  : |   |   :    |'  : |__ '   ; |:  |
+|   | '/  '|   | '/  '|  , ;    \   \  / |  | '.'||   | '/  '
+|   :    :||   :    :| ---'      `----'  ;  :    ;|   :    :|
+ \   \  /   \   \  /                     |  ,   /  \   \  /
+  `----'     `----'                       ---`-'    `----'
+```
+</details>
